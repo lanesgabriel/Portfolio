@@ -18,7 +18,7 @@
           "images/portfolio/socialFeed/socialFeed1.png",
           "images/portfolio/socialFeed/socialFeed2.png"
         ],
-        "url": "https://github.com/lanesgabriel/projetos/tree/main/frontend/socialFeed",
+        "url": "https://github.com/lanesgabriel/projetos/tree/main/React%20projects/socialFeed",
         "technologies": [
           {
             "class": "devicon-react-original",
@@ -42,7 +42,7 @@
           "images/portfolio/taskTimer/taskTimer2.png",
           "images/portfolio/taskTimer/taskTimer3.png"
         ],
-        "url": "https://github.com/lanesgabriel/projetos/tree/main/frontend/taskTimer",
+        "url": "https://github.com/lanesgabriel/projetos/tree/main/React%20projects/taskTimer",
         "technologies": [
           {
             "class": "devicon-react-original",
@@ -65,7 +65,7 @@
           "images/portfolio/financeManager/financeManager1.png",
           "images/portfolio/financeManager/financeManager2.png"
         ],
-        "url": "https://github.com/lanesgabriel/projetos/tree/main/frontend/financeManager",
+        "url": "https://github.com/lanesgabriel/projetos/tree/main/React%20projects/financeManager",
         "technologies": [
           {
             "class": "devicon-react-original",
